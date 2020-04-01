@@ -1,0 +1,8 @@
+#mainView {
+    position: fixed;
+    height:100%;
+    overflow-y: auto;
+    
+    background-image:linear-gradient(#000000, #141414);
+    color:white;
+}
